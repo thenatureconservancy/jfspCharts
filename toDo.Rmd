@@ -1,0 +1,18 @@
+---
+title: "what needs to be done"
+author: "The Nature Conservancy's LANDFIRE team"
+date: "4/22/2021"
+output: html_document
+---
+
+
+## charts to make
+
+1. animated current, with separate line for each region (which ones?)
+2. sankey charts per region (a lot of work)
+
+##  GIS
+
+1. animated current
+    * check regions shapefile
+    * 

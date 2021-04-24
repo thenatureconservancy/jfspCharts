@@ -1,0 +1,496 @@
+Year,Exchange,Acres
+1984,Alaska,85068
+1984,California,227566
+1984,Great Basin,389857
+1984,Great Plains,166926
+1984,North Atlantic,599
+1984,Northern Rockies,49397
+1984,Northwest,134072
+1984,Oak Woodlands,2672
+1984,Southern,85919
+1984,Southern Rockies,4026
+1984,Southwest,10688
+1985,Alaska,333575
+1985,Appalachians,2565
+1985,California,531726
+1985,Great Basin,1473815
+1985,Great Plains,40850
+1985,Lake States,5828
+1985,North Atlantic,26951
+1985,Northern Rockies,136332
+1985,Northwest,98913
+1985,Southern,600550
+1985,Southern Rockies,85506
+1985,Southwest,29252
+1985,Tallgrass Prairie,6637
+1986,Alaska,308893
+1986,Appalachians,8119
+1986,California,102702
+1986,Great Basin,733268
+1986,Great Plains,47302
+1986,Lake States,10521
+1986,North Atlantic,4460
+1986,Northern Rockies,200088
+1986,Northwest,178660
+1986,Oak Woodlands,5743
+1986,Southern,230278
+1986,Southern Rockies,26258
+1986,Southwest,55121
+1986,Tallgrass Prairie,863
+1987,Alaska,98005
+1987,Appalachians,871291
+1987,California,768214
+1987,Great Basin,334181
+1987,Great Plains,37368
+1987,Lake States,74929
+1987,Northern Rockies,92190
+1987,Northwest,262155
+1987,Oak Woodlands,4041
+1987,Southern,60163
+1987,Southern Rockies,42184
+1987,Southwest,116624
+1987,Tallgrass Prairie,154254
+1988,Alaska,810558
+1988,Appalachians,19574
+1988,California,259067
+1988,Great Basin,173664
+1988,Great Plains,567126
+1988,Lake States,32594
+1988,North Atlantic,3418
+1988,Northern Rockies,2307307
+1988,Northwest,177778
+1988,Oak Woodlands,17710
+1988,Southern,66629
+1988,Southern Rockies,117510
+1988,Southwest,177331
+1988,Tallgrass Prairie,97588
+1989,Alaska,48810
+1989,California,144585
+1989,Great Basin,90776
+1989,Great Plains,128053
+1989,North Atlantic,5870
+1989,Northern Rockies,174329
+1989,Northwest,83028
+1989,Oak Woodlands,14869
+1989,Southern,551404
+1989,Southern Rockies,48719
+1989,Southwest,377951
+1989,Tallgrass Prairie,67505
+1990,Alaska,1414399
+1990,California,283749
+1990,Great Basin,176104
+1990,Great Plains,55735
+1990,Lake States,55436
+1990,North Atlantic,3596
+1990,Northern Rockies,39318
+1990,Northwest,167304
+1990,Oak Woodlands,1527
+1990,Southern,118099
+1990,Southern Rockies,26471
+1990,Southwest,148233
+1990,Tallgrass Prairie,80429
+1991,Alaska,760620
+1991,Appalachians,511363
+1991,California,24956
+1991,Great Basin,75532
+1991,Great Plains,271399
+1991,Lake States,50743
+1991,North Atlantic,6445
+1991,Northern Rockies,91375
+1991,Northwest,29732
+1991,Oak Woodlands,112021
+1991,Southern,126166
+1991,Southern Rockies,10013
+1991,Southwest,41333
+1991,Tallgrass Prairie,36962
+1992,Alaska,27419
+1992,California,198199
+1992,Great Basin,374618
+1992,Great Plains,21608
+1992,Lake States,6665
+1992,North Atlantic,22421
+1992,Northern Rockies,407804
+1992,Northwest,124043
+1992,Oak Woodlands,26998
+1992,Pacific,1567
+1992,Southern,199438
+1992,Southern Rockies,10783
+1992,Southwest,70069
+1992,Tallgrass Prairie,2194
+1993,Alaska,398882
+1993,Appalachians,1659
+1993,California,355901
+1993,Great Basin,30716
+1993,Great Plains,93658
+1993,Lake States,889
+1993,North Atlantic,2381
+1993,Northwest,13508
+1993,Oak Woodlands,3748
+1993,Southern,88397
+1993,Southern Rockies,31966
+1993,Southwest,404698
+1993,Tallgrass Prairie,4560
+1994,Alaska,238233
+1994,Appalachians,71615
+1994,California,321978
+1994,Great Basin,538078
+1994,Great Plains,245850
+1994,Lake States,1914
+1994,Northern Rockies,719981
+1994,Northwest,406836
+1994,Oak Woodlands,46201
+1994,Southern,225042
+1994,Southern Rockies,54799
+1994,Southwest,584153
+1994,Tallgrass Prairie,11036
+1995,Alaska,31433
+1995,Appalachians,43205
+1995,California,167085
+1995,Great Basin,535486
+1995,Great Plains,86849
+1995,Lake States,22028
+1995,North Atlantic,24214
+1995,Northern Rockies,9635
+1995,Northwest,7063
+1995,Oak Woodlands,33765
+1995,Southern,66850
+1995,Southern Rockies,15253
+1995,Southwest,360744
+1995,Tallgrass Prairie,5274
+1996,California,591706
+1996,Great Basin,2063231
+1996,Great Plains,839741
+1996,Lake States,10020
+1996,North Atlantic,5526
+1996,Northern Rockies,377059
+1996,Northwest,480639
+1996,Oak Woodlands,118086
+1996,Southern,202985
+1996,Southern Rockies,50689
+1996,Southwest,350217
+1996,Tallgrass Prairie,6453
+1997,Alaska,1096
+1997,Appalachians,508
+1997,California,241742
+1997,Great Basin,83961
+1997,Great Plains,53376
+1997,Lake States,2880
+1997,North Atlantic,8285
+1997,Northern Rockies,10032
+1997,Northwest,18712
+1997,Oak Woodlands,1739
+1997,Southern,112420
+1997,Southern Rockies,12519
+1997,Southwest,101709
+1998,Alaska,174206
+1998,Appalachians,6241
+1998,California,143106
+1998,Great Basin,282489
+1998,Great Plains,202801
+1998,Lake States,9156
+1998,North Atlantic,4431
+1998,Northern Rockies,108574
+1998,Northwest,111962
+1998,Oak Woodlands,4520
+1998,Southern,527463
+1998,Southern Rockies,4044
+1998,Southwest,275448
+1998,Tallgrass Prairie,27822
+1999,Alaska,880280
+1999,Appalachians,230279
+1999,California,728159
+1999,Great Basin,2403189
+1999,Great Plains,253899
+1999,Lake States,5226
+1999,North Atlantic,16884
+1999,Northern Rockies,88911
+1999,Northwest,42471
+1999,Oak Woodlands,13149
+1999,Southern,469900
+1999,Southern Rockies,39563
+1999,Southwest,249853
+1999,Tallgrass Prairie,10291
+2000,Alaska,771073
+2000,Appalachians,144014
+2000,California,237506
+2000,Great Basin,1396364
+2000,Great Plains,511641
+2000,Lake States,16321
+2000,North Atlantic,1664
+2000,Northern Rockies,1894479
+2000,Northwest,549534
+2000,Oak Woodlands,54660
+2000,Pacific,3671
+2000,Southern,396160
+2000,Southern Rockies,275278
+2000,Southwest,538136
+2000,Tallgrass Prairie,55841
+2001,Alaska,108980
+2001,Appalachians,241810
+2001,California,160484
+2001,Great Basin,1220836
+2001,Great Plains,146836
+2001,North Atlantic,6480
+2001,Northern Rockies,230597
+2001,Northwest,344877
+2001,Oak Woodlands,24272
+2001,Southern,407088
+2001,Southern Rockies,69225
+2001,Southwest,205038
+2001,Tallgrass Prairie,8221
+2002,Alaska,2117689
+2002,Appalachians,16176
+2002,California,417255
+2002,Great Basin,407125
+2002,Great Plains,559702
+2002,Lake States,11467
+2002,North Atlantic,6642
+2002,Northern Rockies,89130
+2002,Northwest,977657
+2002,Oak Woodlands,32567
+2002,Pacific,2479
+2002,Southern,278262
+2002,Southern Rockies,399058
+2002,Southwest,937244
+2002,Tallgrass Prairie,33651
+2003,Alaska,577356
+2003,Appalachians,18804
+2003,California,908300
+2003,Great Basin,137956
+2003,Great Plains,420728
+2003,Lake States,8929
+2003,North Atlantic,2068
+2003,Northern Rockies,876020
+2003,Northwest,320986
+2003,Oak Woodlands,117760
+2003,Pacific,5405
+2003,Southern,244654
+2003,Southern Rockies,42208
+2003,Southwest,523019
+2003,Tallgrass Prairie,164517
+2004,Alaska,6568034
+2004,Appalachians,7884
+2004,California,253891
+2004,Great Basin,94603
+2004,Great Plains,120011
+2004,Lake States,13901
+2004,North Atlantic,4588
+2004,Northern Rockies,13410
+2004,Northwest,115680
+2004,Oak Woodlands,158840
+2004,Southern,574490
+2004,Southern Rockies,33111
+2004,Southwest,360608
+2004,Tallgrass Prairie,26793
+2005,Alaska,4860738
+2005,Appalachians,18611
+2005,California,591334
+2005,Great Basin,1261789
+2005,Great Plains,170168
+2005,Lake States,12801
+2005,North Atlantic,760
+2005,Northern Rockies,369814
+2005,Northwest,193498
+2005,Oak Woodlands,309880
+2005,Pacific,20108
+2005,Southern,643357
+2005,Southern Rockies,28466
+2005,Southwest,1235182
+2005,Tallgrass Prairie,32064
+2006,Alaska,270408
+2006,Appalachians,26760
+2006,California,780410
+2006,Great Basin,2258132
+2006,Great Plains,1788668
+2006,Lake States,50738
+2006,North Atlantic,8278
+2006,Northern Rockies,828688
+2006,Northwest,567151
+2006,Oak Woodlands,270131
+2006,Southern,989753
+2006,Southern Rockies,32562
+2006,Southwest,847089
+2006,Tallgrass Prairie,23242
+2007,Alaska,602433
+2007,Appalachians,42187
+2007,California,930993
+2007,Great Basin,2464132
+2007,Great Plains,458034
+2007,Lake States,106056
+2007,North Atlantic,18020
+2007,Northern Rockies,2073168
+2007,Northwest,556074
+2007,Oak Woodlands,154690
+2007,Pacific,13716
+2007,Southern,1701483
+2007,Southern Rockies,105239
+2007,Southwest,196400
+2007,Tallgrass Prairie,102228
+2008,Alaska,99956
+2008,Appalachians,26497
+2008,California,1391977
+2008,Great Basin,211773
+2008,Great Plains,984427
+2008,Lake States,3360
+2008,North Atlantic,6041
+2008,Northern Rockies,177348
+2008,Northwest,282555
+2008,Oak Woodlands,54408
+2008,Southern,1388379
+2008,Southern Rockies,48343
+2008,Southwest,691546
+2008,Tallgrass Prairie,38160
+2009,Alaska,2893651
+2009,Appalachians,21520
+2009,California,409017
+2009,Great Basin,168132
+2009,Great Plains,1873491
+2009,Lake States,17332
+2009,North Atlantic,757
+2009,Northern Rockies,56455
+2009,Northwest,155429
+2009,Oak Woodlands,290197
+2009,Pacific,8355
+2009,Southern,1075105
+2009,Southern Rockies,37874
+2009,Southwest,746327
+2009,Tallgrass Prairie,32627
+2010,Alaska,1054141
+2010,Appalachians,67587
+2010,California,81680
+2010,Great Basin,706792
+2010,Great Plains,172135
+2010,Lake States,17411
+2010,North Atlantic,6079
+2010,Northern Rockies,70678
+2010,Northwest,192731
+2010,Oak Woodlands,126783
+2010,Southern,1349459
+2010,Southern Rockies,24942
+2010,Southwest,265867
+2010,Tallgrass Prairie,22280
+2011,Alaska,238622
+2011,Appalachians,15006
+2011,California,155272
+2011,Great Basin,811630
+2011,Great Plains,3617412
+2011,Lake States,87873
+2011,Northern Rockies,195401
+2011,Northwest,259302
+2011,Oak Woodlands,618564
+2011,Southern,1553776
+2011,Southern Rockies,22821
+2011,Southwest,2896946
+2011,Tallgrass Prairie,90979
+2012,Alaska,259338
+2012,Appalachians,59526
+2012,California,407089
+2012,Great Basin,3115082
+2012,Great Plains,1775626
+2012,Lake States,24619
+2012,North Atlantic,1734
+2012,Northern Rockies,1421567
+2012,Northwest,580150
+2012,Oak Woodlands,167214
+2012,Pacific,2027
+2012,Southern,419958
+2012,Southern Rockies,164871
+2012,Southwest,603340
+2012,Tallgrass Prairie,52955
+2013,Alaska,1220524
+2013,Appalachians,49030
+2013,California,571779
+2013,Great Basin,462275
+2013,Great Plains,98055
+2013,Lake States,10728
+2013,Northern Rockies,715464
+2013,Northwest,329919
+2013,Oak Woodlands,85879
+2013,Southern,637458
+2013,Southern Rockies,105616
+2013,Southwest,285010
+2013,Tallgrass Prairie,10882
+2014,Alaska,277816
+2014,Appalachians,55975
+2014,California,500819
+2014,Great Basin,608461
+2014,Great Plains,1842920
+2014,Lake States,5875
+2014,North Atlantic,1407
+2014,Northern Rockies,172549
+2014,Northwest,844519
+2014,Oak Woodlands,337876
+2014,Southern,775503
+2014,Southern Rockies,26509
+2014,Southwest,248764
+2014,Tallgrass Prairie,189131
+2015,Alaska,4947962
+2015,Appalachians,33140
+2015,California,758684
+2015,Great Basin,466504
+2015,Great Plains,1397940
+2015,Lake States,14345
+2015,North Atlantic,4380
+2015,Northern Rockies,724912
+2015,Northwest,1647107
+2015,Oak Woodlands,332641
+2015,Pacific,3743
+2015,Southern,438398
+2015,Southern Rockies,8813
+2015,Southwest,205751
+2015,Tallgrass Prairie,77838
+2016,Alaska,471947
+2016,Appalachians,271775
+2016,California,525998
+2016,Great Basin,575820
+2016,Great Plains,2515973
+2016,Lake States,10680
+2016,North Atlantic,2571
+2016,Northern Rockies,503110
+2016,Northwest,404788
+2016,Oak Woodlands,390932
+2016,Pacific,13093
+2016,Southern,677884
+2016,Southern Rockies,120310
+2016,Southwest,475621
+2016,Tallgrass Prairie,112670
+2017,Alaska,711102
+2017,Appalachians,25087
+2017,California,1158528
+2017,Great Basin,1870701
+2017,Great Plains,3341125
+2017,Lake States,1557
+2017,North Atlantic,4189
+2017,Northern Rockies,1023651
+2017,Northwest,1072867
+2017,Oak Woodlands,174917
+2017,Pacific,1591
+2017,Southern,904465
+2017,Southern Rockies,125685
+2017,Southwest,635526
+2017,Tallgrass Prairie,98417
+2018,Alaska,418544
+2018,Appalachians,34283
+2018,California,1455344
+2018,Great Basin,1764475
+2018,Great Plains,1440343
+2018,Lake States,15269
+2018,North Atlantic,2196
+2018,Northern Rockies,455136
+2018,Northwest,1212397
+2018,Oak Woodlands,303505
+2018,Pacific,15617
+2018,Southern,803622
+2018,Southern Rockies,369217
+2018,Southwest,579639
+2018,Tallgrass Prairie,51330
+2019,Alaska,2524209
+2019,California,219135
+2019,Great Basin,484155
+2019,Great Plains,43136
+2019,Northern Rockies,49477
+2019,Northwest,209105
+2019,Pacific,13440
+2019,Southern Rockies,51364
+2019,Southwest,516240
+Grand Total,,188291155
