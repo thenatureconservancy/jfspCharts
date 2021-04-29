@@ -1,0 +1,775 @@
+exchange,source,target,value
+Appalachians,Conifer (past),Agricultural (present),29725.578
+Appalachians,Conifer (past),Conifer (present),365499.468
+Appalachians,Conifer (past),Conifer-Hardwood (present),133958.352
+Appalachians,Conifer (past),Developed (present),134030.502
+Appalachians,Conifer (past),Exotics (present),21004.53
+Appalachians,Conifer (past),Grassland (present),12401.364
+Appalachians,Conifer (past),Hardwood (present),1146710.142
+Appalachians,Conifer (past),Riparian (present),3214.116
+Appalachians,Conifer (past),Shrubland (present),6561.876
+Appalachians,Grassland (past),Agricultural (present),69156.33
+Appalachians,Grassland (past),Conifer (present),2057.496
+Appalachians,Grassland (past),Conifer-Hardwood (present),4535.238
+Appalachians,Grassland (past),Developed (present),20524.122
+Appalachians,Grassland (past),Exotics (present),5020.086
+Appalachians,Grassland (past),Grassland (present),284.382
+Appalachians,Grassland (past),Hardwood (present),53694.918
+Appalachians,Grassland (past),Riparian (present),468.42
+Appalachians,Grassland (past),Shrubland (present),60.384
+Appalachians,Hardwood (past),Agricultural (present),10659145.96
+Appalachians,Hardwood (past),Conifer (present),3077406.402
+Appalachians,Hardwood (past),Conifer-Hardwood (present),5057071.866
+Appalachians,Hardwood (past),Developed (present),10333441.99
+Appalachians,Hardwood (past),Exotics (present),1624781.592
+Appalachians,Hardwood (past),Grassland (present),310557.132
+Appalachians,Hardwood (past),Hardwood (present),40393593.75
+Appalachians,Hardwood (past),Riparian (present),290120.922
+Appalachians,Hardwood (past),Shrubland (present),83968.836
+Appalachians,Hardwood-Conifer (past),Agricultural (present),614819.454
+Appalachians,Hardwood-Conifer (past),Conifer (present),371075.664
+Appalachians,Hardwood-Conifer (past),Conifer-Hardwood (present),655162.626
+Appalachians,Hardwood-Conifer (past),Developed (present),927503.124
+Appalachians,Hardwood-Conifer (past),Exotics (present),54033.024
+Appalachians,Hardwood-Conifer (past),Grassland (present),32651.094
+Appalachians,Hardwood-Conifer (past),Hardwood (present),2747015.568
+Appalachians,Hardwood-Conifer (past),Riparian (present),15335.76
+Appalachians,Hardwood-Conifer (past),Shrubland (present),6623.37
+Appalachians,Riparian (past),Agricultural (present),1871688.438
+Appalachians,Riparian (past),Conifer (present),411177.522
+Appalachians,Riparian (past),Conifer-Hardwood (present),680693.736
+Appalachians,Riparian (past),Developed (present),2108690.976
+Appalachians,Riparian (past),Exotics (present),201536.04
+Appalachians,Riparian (past),Grassland (present),15438.99
+Appalachians,Riparian (past),Hardwood (present),3435660.9
+Appalachians,Riparian (past),Riparian (present),959494.878
+Appalachians,Riparian (past),Shrubland (present),4629.81
+Appalachians,Savanna (past),Agricultural (present),29129.73
+Appalachians,Savanna (past),Conifer (present),5497.608
+Appalachians,Savanna (past),Conifer-Hardwood (present),11590.62
+Appalachians,Savanna (past),Developed (present),11907.636
+Appalachians,Savanna (past),Exotics (present),2465.754
+Appalachians,Savanna (past),Grassland (present),156.51
+Appalachians,Savanna (past),Hardwood (present),43071.552
+Appalachians,Savanna (past),Riparian (present),392.496
+Appalachians,Savanna (past),Shrubland (present),45.51
+California,Conifer (past),Agricultural (present),155401.776
+California,Conifer (past),Conifer (present),14964457.23
+California,Conifer (past),Conifer-Hardwood (present),114141.522
+California,Conifer (past),Developed (present),668698.854
+California,Conifer (past),Exotics (present),426552.798
+California,Conifer (past),Grassland (present),668895.768
+California,Conifer (past),Hardwood (present),716623.77
+California,Conifer (past),Riparian (present),179130.024
+California,Conifer (past),Shrubland (present),2626796.352
+California,Grassland (past),Agricultural (present),349335.87
+California,Grassland (past),Conifer (present),31898.292
+California,Grassland (past),Conifer-Hardwood (present),854.256
+California,Grassland (past),Developed (present),618914.244
+California,Grassland (past),Exotics (present),365012.622
+California,Grassland (past),Grassland (present),28152.042
+California,Grassland (past),Hardwood (present),20691.066
+California,Grassland (past),Riparian (present),88411.5
+California,Grassland (past),Shrubland (present),82052.088
+California,Hardwood (past),Agricultural (present),1760270.634
+California,Hardwood (past),Conifer (present),2584354.836
+California,Hardwood (past),Conifer-Hardwood (present),272078.982
+California,Hardwood (past),Developed (present),1825043.13
+California,Hardwood (past),Exotics (present),3422427.924
+California,Hardwood (past),Grassland (present),386222.058
+California,Hardwood (past),Hardwood (present),1571112.426
+California,Hardwood (past),Riparian (present),312073.17
+California,Hardwood (past),Shrubland (present),2377285.002
+California,Hardwood-Conifer (past),Conifer (present),8146.29
+California,Hardwood-Conifer (past),Developed (present),53.058
+California,Hardwood-Conifer (past),Exotics (present),113.664
+California,Hardwood-Conifer (past),Grassland (present),494.616
+California,Hardwood-Conifer (past),Hardwood (present),163.392
+California,Hardwood-Conifer (past),Riparian (present),657.342
+California,Hardwood-Conifer (past),Shrubland (present),2106.78
+California,Riparian (past),Agricultural (present),3160274.562
+California,Riparian (past),Conifer (present),850019.352
+California,Riparian (past),Conifer-Hardwood (present),19401.468
+California,Riparian (past),Developed (present),944409.978
+California,Riparian (past),Exotics (present),230369.4
+California,Riparian (past),Grassland (present),72178.416
+California,Riparian (past),Hardwood (present),185049.876
+California,Riparian (past),Riparian (present),1056596.568
+California,Riparian (past),Shrubland (present),1646686.11
+California,Shrubland (past),Agricultural (present),3658303.368
+California,Shrubland (past),Conifer (present),1131221.646
+California,Shrubland (past),Conifer-Hardwood (present),30152.484
+California,Shrubland (past),Developed (present),4431795.102
+California,Shrubland (past),Exotics (present),4610270.448
+California,Shrubland (past),Grassland (present),587675.514
+California,Shrubland (past),Hardwood (present),412482.216
+California,Shrubland (past),Riparian (present),414826.536
+California,Shrubland (past),Shrubland (present),22772192.35
+Great Basin,Conifer (past),Agricultural (present),51411.648
+Great Basin,Conifer (past),Conifer (present),8420472.876
+Great Basin,Conifer (past),Conifer-Hardwood (present),122942.934
+Great Basin,Conifer (past),Developed (present),120379.722
+Great Basin,Conifer (past),Exotics (present),283059.324
+Great Basin,Conifer (past),Grassland (present),267229.614
+Great Basin,Conifer (past),Hardwood (present),148510.008
+Great Basin,Conifer (past),Riparian (present),130058.922
+Great Basin,Conifer (past),Shrubland (present),2757999.684
+Great Basin,Grassland (past),Agricultural (present),53052.672
+Great Basin,Grassland (past),Conifer (present),39368.592
+Great Basin,Grassland (past),Conifer-Hardwood (present),861.138
+Great Basin,Grassland (past),Developed (present),28271.256
+Great Basin,Grassland (past),Exotics (present),61755.294
+Great Basin,Grassland (past),Grassland (present),49268.904
+Great Basin,Grassland (past),Hardwood (present),11252.514
+Great Basin,Grassland (past),Riparian (present),11126.418
+Great Basin,Grassland (past),Shrubland (present),811808.49
+Great Basin,Hardwood (past),Agricultural (present),27565.518
+Great Basin,Hardwood (past),Conifer (present),570758.67
+Great Basin,Hardwood (past),Conifer-Hardwood (present),181799.13
+Great Basin,Hardwood (past),Developed (present),27679.626
+Great Basin,Hardwood (past),Exotics (present),56710.788
+Great Basin,Hardwood (past),Grassland (present),157744.986
+Great Basin,Hardwood (past),Hardwood (present),834627.648
+Great Basin,Hardwood (past),Riparian (present),16031.952
+Great Basin,Hardwood (past),Shrubland (present),916284.354
+Great Basin,Hardwood-Conifer (past),Agricultural (present),344.544
+Great Basin,Hardwood-Conifer (past),Conifer (present),550491.846
+Great Basin,Hardwood-Conifer (past),Conifer-Hardwood (present),259175.454
+Great Basin,Hardwood-Conifer (past),Developed (present),8844.48
+Great Basin,Hardwood-Conifer (past),Exotics (present),9143.736
+Great Basin,Hardwood-Conifer (past),Grassland (present),70600.218
+Great Basin,Hardwood-Conifer (past),Hardwood (present),415368.66
+Great Basin,Hardwood-Conifer (past),Riparian (present),5672.322
+Great Basin,Hardwood-Conifer (past),Shrubland (present),176557.932
+Great Basin,Riparian (past),Agricultural (present),1644258.096
+Great Basin,Riparian (past),Conifer (present),595574.274
+Great Basin,Riparian (past),Conifer-Hardwood (present),22349.406
+Great Basin,Riparian (past),Developed (present),326020.32
+Great Basin,Riparian (past),Exotics (present),431670.564
+Great Basin,Riparian (past),Grassland (present),92629.722
+Great Basin,Riparian (past),Hardwood (present),68859.96
+Great Basin,Riparian (past),Riparian (present),846517.524
+Great Basin,Riparian (past),Shrubland (present),837858.636
+Great Basin,Shrubland (past),Agricultural (present),4837089.624
+Great Basin,Shrubland (past),Conifer (present),8703906.936
+Great Basin,Shrubland (past),Conifer-Hardwood (present),55313.298
+Great Basin,Shrubland (past),Developed (present),1656759.582
+Great Basin,Shrubland (past),Exotics (present),13281906.35
+Great Basin,Shrubland (past),Grassland (present),2953779.708
+Great Basin,Shrubland (past),Hardwood (present),244033.5
+Great Basin,Shrubland (past),Riparian (present),1322944.842
+Great Basin,Shrubland (past),Shrubland (present),69914681.33
+Great Plains,Conifer (past),Agricultural (present),212005.338
+Great Plains,Conifer (past),Conifer (present),4979429.142
+Great Plains,Conifer (past),Conifer-Hardwood (present),19362.174
+Great Plains,Conifer (past),Developed (present),241995.096
+Great Plains,Conifer (past),Exotics (present),845273.88
+Great Plains,Conifer (past),Grassland (present),1087932.756
+Great Plains,Conifer (past),Hardwood (present),700558.074
+Great Plains,Conifer (past),Riparian (present),110163.726
+Great Plains,Conifer (past),Shrubland (present),4279864.962
+Great Plains,Grassland (past),Agricultural (present),99486766.31
+Great Plains,Grassland (past),Conifer (present),1305100.926
+Great Plains,Grassland (past),Conifer-Hardwood (present),355056.588
+Great Plains,Grassland (past),Developed (present),10819989.4
+Great Plains,Grassland (past),Exotics (present),17781953.14
+Great Plains,Grassland (past),Grassland (present),99423579.79
+Great Plains,Grassland (past),Hardwood (present),1880136.204
+Great Plains,Grassland (past),Riparian (present),4894236.198
+Great Plains,Grassland (past),Shrubland (present),25451999.63
+Great Plains,Hardwood (past),Agricultural (present),2542806.87
+Great Plains,Hardwood (past),Conifer (present),92803.77
+Great Plains,Hardwood (past),Conifer-Hardwood (present),499503.33
+Great Plains,Hardwood (past),Developed (present),943022.256
+Great Plains,Hardwood (past),Exotics (present),2706542.526
+Great Plains,Hardwood (past),Grassland (present),2556250.302
+Great Plains,Hardwood (past),Hardwood (present),3646462.11
+Great Plains,Hardwood (past),Riparian (present),268681.716
+Great Plains,Hardwood (past),Shrubland (present),4193259.21
+Great Plains,Hardwood-Conifer (past),Agricultural (present),139.416
+Great Plains,Hardwood-Conifer (past),Conifer (present),437878.572
+Great Plains,Hardwood-Conifer (past),Conifer-Hardwood (present),2717.724
+Great Plains,Hardwood-Conifer (past),Developed (present),12058.596
+Great Plains,Hardwood-Conifer (past),Exotics (present),3885.888
+Great Plains,Hardwood-Conifer (past),Grassland (present),39109.074
+Great Plains,Hardwood-Conifer (past),Hardwood (present),73837.2
+Great Plains,Hardwood-Conifer (past),Riparian (present),4227.102
+Great Plains,Hardwood-Conifer (past),Shrubland (present),43473.372
+Great Plains,Riparian (past),Agricultural (present),7887152.952
+Great Plains,Riparian (past),Conifer (present),373243.494
+Great Plains,Riparian (past),Conifer-Hardwood (present),93245.328
+Great Plains,Riparian (past),Developed (present),962537.832
+Great Plains,Riparian (past),Exotics (present),1907564.526
+Great Plains,Riparian (past),Grassland (present),4299319.71
+Great Plains,Riparian (past),Hardwood (present),451248.522
+Great Plains,Riparian (past),Riparian (present),6018687.732
+Great Plains,Riparian (past),Shrubland (present),1700332.188
+Great Plains,Shrubland (past),Agricultural (present),4751236.008
+Great Plains,Shrubland (past),Conifer (present),971522.616
+Great Plains,Shrubland (past),Conifer-Hardwood (present),5429.676
+Great Plains,Shrubland (past),Developed (present),1198347.342
+Great Plains,Shrubland (past),Exotics (present),2136824.148
+Great Plains,Shrubland (past),Grassland (present),12063573.91
+Great Plains,Shrubland (past),Hardwood (present),218795.208
+Great Plains,Shrubland (past),Riparian (present),1153704.918
+Great Plains,Shrubland (past),Shrubland (present),13786192.9
+Lake States,Conifer (past),Agricultural (present),994744.26
+Lake States,Conifer (past),Conifer (present),3468531.108
+Lake States,Conifer (past),Conifer-Hardwood (present),353682.63
+Lake States,Conifer (past),Developed (present),847923.006
+Lake States,Conifer (past),Exotics (present),352962.018
+Lake States,Conifer (past),Grassland (present),113621.598
+Lake States,Conifer (past),Hardwood (present),4668449.322
+Lake States,Conifer (past),Riparian (present),1808712.588
+Lake States,Conifer (past),Shrubland (present),36740.556
+Lake States,Grassland (past),Agricultural (present),187816.218
+Lake States,Grassland (past),Conifer (present),7185.696
+Lake States,Grassland (past),Conifer-Hardwood (present),5407.476
+Lake States,Grassland (past),Developed (present),64367.346
+Lake States,Grassland (past),Exotics (present),16442.43
+Lake States,Grassland (past),Grassland (present),2259.96
+Lake States,Grassland (past),Hardwood (present),16899.306
+Lake States,Grassland (past),Riparian (present),9348.864
+Lake States,Grassland (past),Shrubland (present),53.058
+Lake States,Hardwood (past),Agricultural (present),10058572.47
+Lake States,Hardwood (past),Conifer (present),1885213.344
+Lake States,Hardwood (past),Conifer-Hardwood (present),1356192.672
+Lake States,Hardwood (past),Developed (present),4453750.68
+Lake States,Hardwood (past),Exotics (present),505444.938
+Lake States,Hardwood (past),Grassland (present),77810.334
+Lake States,Hardwood (past),Hardwood (present),12586360.82
+Lake States,Hardwood (past),Riparian (present),2032679.73
+Lake States,Hardwood (past),Shrubland (present),20146.056
+Lake States,Hardwood-Conifer (past),Agricultural (present),2119379.832
+Lake States,Hardwood-Conifer (past),Conifer (present),2115747.912
+Lake States,Hardwood-Conifer (past),Conifer-Hardwood (present),751114.578
+Lake States,Hardwood-Conifer (past),Developed (present),1592564.064
+Lake States,Hardwood-Conifer (past),Exotics (present),199715.418
+Lake States,Hardwood-Conifer (past),Grassland (present),42972.318
+Lake States,Hardwood-Conifer (past),Hardwood (present),4421758.704
+Lake States,Hardwood-Conifer (past),Riparian (present),615457.704
+Lake States,Hardwood-Conifer (past),Shrubland (present),14099.664
+Lake States,Riparian (past),Agricultural (present),1686272.04
+Lake States,Riparian (past),Conifer (present),1225189.14
+Lake States,Riparian (past),Conifer-Hardwood (present),260222.406
+Lake States,Riparian (past),Developed (present),1086142.326
+Lake States,Riparian (past),Exotics (present),201625.506
+Lake States,Riparian (past),Grassland (present),55765.512
+Lake States,Riparian (past),Hardwood (present),1750628.73
+Lake States,Riparian (past),Riparian (present),12703513.99
+Lake States,Riparian (past),Shrubland (present),24410.454
+Lake States,Savanna (past),Agricultural (present),1.554
+Lake States,Savanna (past),Developed (present),7.992
+Lake States,Savanna (past),Riparian (present),0.222
+North Atlantic,Conifer (past),Agricultural (present),68845.086
+North Atlantic,Conifer (past),Conifer (present),393433.95
+North Atlantic,Conifer (past),Conifer-Hardwood (present),42532.314
+North Atlantic,Conifer (past),Developed (present),382942.896
+North Atlantic,Conifer (past),Exotics (present),19107.096
+North Atlantic,Conifer (past),Grassland (present),6141.408
+North Atlantic,Conifer (past),Hardwood (present),111617.382
+North Atlantic,Conifer (past),Riparian (present),194391.858
+North Atlantic,Conifer (past),Shrubland (present),1325.34
+North Atlantic,Grassland (past),Agricultural (present),2310.132
+North Atlantic,Grassland (past),Conifer (present),3869.682
+North Atlantic,Grassland (past),Conifer-Hardwood (present),3410.142
+North Atlantic,Grassland (past),Developed (present),11698.29
+North Atlantic,Grassland (past),Exotics (present),732.6
+North Atlantic,Grassland (past),Grassland (present),213.786
+North Atlantic,Grassland (past),Hardwood (present),4683.978
+North Atlantic,Grassland (past),Riparian (present),15032.73
+North Atlantic,Grassland (past),Shrubland (present),62.826
+North Atlantic,Hardwood (past),Agricultural (present),2802313.77
+North Atlantic,Hardwood (past),Conifer (present),2074572.462
+North Atlantic,Hardwood (past),Conifer-Hardwood (present),4346777.982
+North Atlantic,Hardwood (past),Developed (present),5185440.48
+North Atlantic,Hardwood (past),Exotics (present),293093.058
+North Atlantic,Hardwood (past),Grassland (present),133974.558
+North Atlantic,Hardwood (past),Hardwood (present),14286267.65
+North Atlantic,Hardwood (past),Riparian (present),559243.53
+North Atlantic,Hardwood (past),Shrubland (present),58147.35
+North Atlantic,Hardwood-Conifer (past),Agricultural (present),1600649.748
+North Atlantic,Hardwood-Conifer (past),Conifer (present),6062678.808
+North Atlantic,Hardwood-Conifer (past),Conifer-Hardwood (present),6758880.354
+North Atlantic,Hardwood-Conifer (past),Developed (present),3917128.506
+North Atlantic,Hardwood-Conifer (past),Exotics (present),277679.598
+North Atlantic,Hardwood-Conifer (past),Grassland (present),168850.314
+North Atlantic,Hardwood-Conifer (past),Hardwood (present),9068682.684
+North Atlantic,Hardwood-Conifer (past),Riparian (present),1272531.972
+North Atlantic,Hardwood-Conifer (past),Shrubland (present),91748.826
+North Atlantic,Riparian (past),Agricultural (present),689305.782
+North Atlantic,Riparian (past),Conifer (present),1022431.434
+North Atlantic,Riparian (past),Conifer-Hardwood (present),643207.038
+North Atlantic,Riparian (past),Developed (present),1578885.312
+North Atlantic,Riparian (past),Exotics (present),113666.664
+North Atlantic,Riparian (past),Grassland (present),12971.904
+North Atlantic,Riparian (past),Hardwood (present),1127875.662
+North Atlantic,Riparian (past),Riparian (present),3088794.78
+North Atlantic,Riparian (past),Shrubland (present),6291.702
+North Atlantic,Savanna (past),Agricultural (present),2641.134
+North Atlantic,Savanna (past),Conifer (present),147.852
+North Atlantic,Savanna (past),Conifer-Hardwood (present),876.012
+North Atlantic,Savanna (past),Developed (present),5754.018
+North Atlantic,Savanna (past),Exotics (present),262.626
+North Atlantic,Savanna (past),Grassland (present),0.666
+North Atlantic,Savanna (past),Hardwood (present),970.14
+North Atlantic,Savanna (past),Riparian (present),145.41
+North Atlantic,Shrubland (past),Agricultural (present),71.262
+North Atlantic,Shrubland (past),Conifer (present),20044.602
+North Atlantic,Shrubland (past),Conifer-Hardwood (present),77114.142
+North Atlantic,Shrubland (past),Developed (present),2268.618
+North Atlantic,Shrubland (past),Exotics (present),1202.574
+North Atlantic,Shrubland (past),Grassland (present),1678.542
+North Atlantic,Shrubland (past),Hardwood (present),6526.8
+North Atlantic,Shrubland (past),Riparian (present),1222.554
+North Atlantic,Shrubland (past),Shrubland (present),10513.92
+Northern Rockies,Conifer (past),Agricultural (present),615333.606
+Northern Rockies,Conifer (past),Conifer (present),35853863.14
+Northern Rockies,Conifer (past),Conifer-Hardwood (present),69900.03
+Northern Rockies,Conifer (past),Developed (present),290493.66
+Northern Rockies,Conifer (past),Exotics (present),232160.94
+Northern Rockies,Conifer (past),Grassland (present),2874407.382
+Northern Rockies,Conifer (past),Hardwood (present),347483.28
+Northern Rockies,Conifer (past),Riparian (present),510986.28
+Northern Rockies,Conifer (past),Shrubland (present),7703313.864
+Northern Rockies,Grassland (past),Agricultural (present),2552418.36
+Northern Rockies,Grassland (past),Conifer (present),603357.594
+Northern Rockies,Grassland (past),Conifer-Hardwood (present),181.152
+Northern Rockies,Grassland (past),Developed (present),335804.97
+Northern Rockies,Grassland (past),Exotics (present),621457.254
+Northern Rockies,Grassland (past),Grassland (present),4950440.826
+Northern Rockies,Grassland (past),Hardwood (present),31888.302
+Northern Rockies,Grassland (past),Riparian (present),102888.342
+Northern Rockies,Grassland (past),Shrubland (present),3532069.506
+Northern Rockies,Hardwood (past),Agricultural (present),39079.77
+Northern Rockies,Hardwood (past),Conifer (present),611851.98
+Northern Rockies,Hardwood (past),Conifer-Hardwood (present),67719.324
+Northern Rockies,Hardwood (past),Developed (present),7929.84
+Northern Rockies,Hardwood (past),Exotics (present),27907.842
+Northern Rockies,Hardwood (past),Grassland (present),148958.448
+Northern Rockies,Hardwood (past),Hardwood (present),337713.06
+Northern Rockies,Hardwood (past),Riparian (present),26044.818
+Northern Rockies,Hardwood (past),Shrubland (present),318673.23
+Northern Rockies,Hardwood-Conifer (past),Agricultural (present),256.632
+Northern Rockies,Hardwood-Conifer (past),Conifer (present),100930.302
+Northern Rockies,Hardwood-Conifer (past),Conifer-Hardwood (present),47459.382
+Northern Rockies,Hardwood-Conifer (past),Developed (present),357.642
+Northern Rockies,Hardwood-Conifer (past),Exotics (present),1038.516
+Northern Rockies,Hardwood-Conifer (past),Grassland (present),11445.432
+Northern Rockies,Hardwood-Conifer (past),Hardwood (present),46388.454
+Northern Rockies,Hardwood-Conifer (past),Riparian (present),193.14
+Northern Rockies,Hardwood-Conifer (past),Shrubland (present),19346.856
+Northern Rockies,Riparian (past),Agricultural (present),1925176.008
+Northern Rockies,Riparian (past),Conifer (present),1477513.23
+Northern Rockies,Riparian (past),Conifer-Hardwood (present),6086.574
+Northern Rockies,Riparian (past),Developed (present),342683.862
+Northern Rockies,Riparian (past),Exotics (present),267740.214
+Northern Rockies,Riparian (past),Grassland (present),525268.428
+Northern Rockies,Riparian (past),Hardwood (present),40082.1
+Northern Rockies,Riparian (past),Riparian (present),2354953.8
+Northern Rockies,Riparian (past),Shrubland (present),912762.99
+Northern Rockies,Shrubland (past),Agricultural (present),2306810.214
+Northern Rockies,Shrubland (past),Conifer (present),912094.548
+Northern Rockies,Shrubland (past),Conifer-Hardwood (present),12895.314
+Northern Rockies,Shrubland (past),Developed (present),529072.842
+Northern Rockies,Shrubland (past),Exotics (present),1257063.012
+Northern Rockies,Shrubland (past),Grassland (present),3053087.856
+Northern Rockies,Shrubland (past),Hardwood (present),131481.942
+Northern Rockies,Shrubland (past),Riparian (present),243047.82
+Northern Rockies,Shrubland (past),Shrubland (present),17341882.76
+Northwest,Conifer (past),Agricultural (present),1460769.99
+Northwest,Conifer (past),Conifer (present),38638335.88
+Northwest,Conifer (past),Conifer-Hardwood (present),391362.912
+Northwest,Conifer (past),Developed (present),2766072.714
+Northwest,Conifer (past),Exotics (present),612985.734
+Northwest,Conifer (past),Grassland (present),1832346.264
+Northwest,Conifer (past),Hardwood (present),2256187.998
+Northwest,Conifer (past),Riparian (present),623238.582
+Northwest,Conifer (past),Shrubland (present),2878450.668
+Northwest,Grassland (past),Agricultural (present),5421440.466
+Northwest,Grassland (past),Conifer (present),767738.604
+Northwest,Grassland (past),Conifer-Hardwood (present),31.746
+Northwest,Grassland (past),Developed (present),575540.106
+Northwest,Grassland (past),Exotics (present),1605087.528
+Northwest,Grassland (past),Grassland (present),2687671.416
+Northwest,Grassland (past),Hardwood (present),1817.07
+Northwest,Grassland (past),Riparian (present),116604.168
+Northwest,Grassland (past),Shrubland (present),4509168.762
+Northwest,Hardwood (past),Agricultural (present),1158446.838
+Northwest,Hardwood (past),Conifer (present),630243.792
+Northwest,Hardwood (past),Conifer-Hardwood (present),47365.698
+Northwest,Hardwood (past),Developed (present),456161.826
+Northwest,Hardwood (past),Exotics (present),92108.91
+Northwest,Hardwood (past),Grassland (present),42962.328
+Northwest,Hardwood (past),Hardwood (present),113528.136
+Northwest,Hardwood (past),Riparian (present),62136.912
+Northwest,Hardwood (past),Shrubland (present),112306.026
+Northwest,Hardwood-Conifer (past),Agricultural (present),640.914
+Northwest,Hardwood-Conifer (past),Conifer (present),90749.382
+Northwest,Hardwood-Conifer (past),Conifer-Hardwood (present),2.442
+Northwest,Hardwood-Conifer (past),Developed (present),176.712
+Northwest,Hardwood-Conifer (past),Exotics (present),198.912
+Northwest,Hardwood-Conifer (past),Grassland (present),3325.116
+Northwest,Hardwood-Conifer (past),Hardwood (present),270.396
+Northwest,Hardwood-Conifer (past),Riparian (present),120.324
+Northwest,Hardwood-Conifer (past),Shrubland (present),5448.546
+Northwest,Riparian (past),Agricultural (present),1284142.572
+Northwest,Riparian (past),Conifer (present),1139174.574
+Northwest,Riparian (past),Conifer-Hardwood (present),25548.204
+Northwest,Riparian (past),Developed (present),604592.358
+Northwest,Riparian (past),Exotics (present),107715.51
+Northwest,Riparian (past),Grassland (present),93343.674
+Northwest,Riparian (past),Hardwood (present),97345.446
+Northwest,Riparian (past),Riparian (present),2148465.606
+Northwest,Riparian (past),Shrubland (present),137089.218
+Northwest,Shrubland (past),Agricultural (present),2242509.246
+Northwest,Shrubland (past),Conifer (present),1139107.752
+Northwest,Shrubland (past),Conifer-Hardwood (present),91.908
+Northwest,Shrubland (past),Developed (present),441672.552
+Northwest,Shrubland (past),Exotics (present),795043.272
+Northwest,Shrubland (past),Grassland (present),1174912.356
+Northwest,Shrubland (past),Hardwood (present),4098.342
+Northwest,Shrubland (past),Riparian (present),181916.568
+Northwest,Shrubland (past),Shrubland (present),4424037.756
+Oak Woodlands,Conifer (past),Agricultural (present),323114.562
+Oak Woodlands,Conifer (past),Conifer (present),275072.43
+Oak Woodlands,Conifer (past),Conifer-Hardwood (present),136813.716
+Oak Woodlands,Conifer (past),Developed (present),268674.168
+Oak Woodlands,Conifer (past),Exotics (present),184075.518
+Oak Woodlands,Conifer (past),Grassland (present),53142.582
+Oak Woodlands,Conifer (past),Hardwood (present),2229438.33
+Oak Woodlands,Conifer (past),Riparian (present),14592.282
+Oak Woodlands,Conifer (past),Shrubland (present),44493.906
+Oak Woodlands,Grassland (past),Agricultural (present),14000480.17
+Oak Woodlands,Grassland (past),Conifer (present),55685.592
+Oak Woodlands,Grassland (past),Conifer-Hardwood (present),313655.364
+Oak Woodlands,Grassland (past),Developed (present),5225923.068
+Oak Woodlands,Grassland (past),Exotics (present),3261683.94
+Oak Woodlands,Grassland (past),Grassland (present),3548549.232
+Oak Woodlands,Grassland (past),Hardwood (present),2267573.49
+Oak Woodlands,Grassland (past),Riparian (present),441779.112
+Oak Woodlands,Grassland (past),Shrubland (present),236265.054
+Oak Woodlands,Hardwood (past),Agricultural (present),27265605.1
+Oak Woodlands,Hardwood (past),Conifer (present),1298900.022
+Oak Woodlands,Hardwood (past),Conifer-Hardwood (present),2578114.86
+Oak Woodlands,Hardwood (past),Developed (present),11518486.87
+Oak Woodlands,Hardwood (past),Exotics (present),4789050.822
+Oak Woodlands,Hardwood (past),Grassland (present),2262380.91
+Oak Woodlands,Hardwood (past),Hardwood (present),36348558.39
+Oak Woodlands,Hardwood (past),Riparian (present),1368841.344
+Oak Woodlands,Hardwood (past),Shrubland (present),663034.08
+Oak Woodlands,Hardwood-Conifer (past),Agricultural (present),685677.636
+Oak Woodlands,Hardwood-Conifer (past),Conifer (present),311525.718
+Oak Woodlands,Hardwood-Conifer (past),Conifer-Hardwood (present),143787.624
+Oak Woodlands,Hardwood-Conifer (past),Developed (present),251904.066
+Oak Woodlands,Hardwood-Conifer (past),Exotics (present),119467.302
+Oak Woodlands,Hardwood-Conifer (past),Grassland (present),22600.044
+Oak Woodlands,Hardwood-Conifer (past),Hardwood (present),1128718.374
+Oak Woodlands,Hardwood-Conifer (past),Riparian (present),28945.248
+Oak Woodlands,Hardwood-Conifer (past),Shrubland (present),2383.614
+Oak Woodlands,Riparian (past),Agricultural (present),12013477.61
+Oak Woodlands,Riparian (past),Conifer (present),214391.616
+Oak Woodlands,Riparian (past),Conifer-Hardwood (present),567587.4
+Oak Woodlands,Riparian (past),Developed (present),2429902.776
+Oak Woodlands,Riparian (past),Exotics (present),1166938.338
+Oak Woodlands,Riparian (past),Grassland (present),240833.814
+Oak Woodlands,Riparian (past),Hardwood (present),3333521.808
+Oak Woodlands,Riparian (past),Riparian (present),4069255.56
+Oak Woodlands,Riparian (past),Shrubland (present),38796.498
+Oak Woodlands,Savanna (past),Agricultural (present),61612.77
+Oak Woodlands,Savanna (past),Conifer (present),365.19
+Oak Woodlands,Savanna (past),Conifer-Hardwood (present),28481.712
+Oak Woodlands,Savanna (past),Developed (present),92972.712
+Oak Woodlands,Savanna (past),Exotics (present),2031.522
+Oak Woodlands,Savanna (past),Grassland (present),392.94
+Oak Woodlands,Savanna (past),Hardwood (present),82602.426
+Oak Woodlands,Savanna (past),Riparian (present),1677.21
+Oak Woodlands,Savanna (past),Shrubland (present),26.196
+Oak Woodlands,Shrubland (past),Agricultural (present),303762.6
+Oak Woodlands,Shrubland (past),Conifer (present),19.092
+Oak Woodlands,Shrubland (past),Conifer-Hardwood (present),412.698
+Oak Woodlands,Shrubland (past),Developed (present),55886.502
+Oak Woodlands,Shrubland (past),Exotics (present),147778.518
+Oak Woodlands,Shrubland (past),Grassland (present),14533.23
+Oak Woodlands,Shrubland (past),Hardwood (present),46658.184
+Oak Woodlands,Shrubland (past),Riparian (present),8527.02
+Oak Woodlands,Shrubland (past),Shrubland (present),35028.936
+Southern,Conifer (past),Agricultural (present),10758247.87
+Southern,Conifer (past),Conifer (present),17038409.42
+Southern,Conifer (past),Conifer-Hardwood (present),3848764.938
+Southern,Conifer (past),Developed (present),9436313.13
+Southern,Conifer (past),Exotics (present),2032382.694
+Southern,Conifer (past),Grassland (present),1251594.486
+Southern,Conifer (past),Hardwood (present),2014284.366
+Southern,Conifer (past),Riparian (present),1260998.184
+Southern,Conifer (past),Shrubland (present),223125.984
+Southern,Grassland (past),Agricultural (present),7069525.176
+Southern,Grassland (past),Conifer (present),808989.534
+Southern,Grassland (past),Conifer-Hardwood (present),443867.244
+Southern,Grassland (past),Developed (present),2581483.71
+Southern,Grassland (past),Exotics (present),796370.166
+Southern,Grassland (past),Grassland (present),131946.588
+Southern,Grassland (past),Hardwood (present),860283.522
+Southern,Grassland (past),Riparian (present),1041148.254
+Southern,Grassland (past),Shrubland (present),92925.204
+Southern,Hardwood (past),Agricultural (present),9039166.452
+Southern,Hardwood (past),Conifer (present),14108849.92
+Southern,Hardwood (past),Conifer-Hardwood (present),7492787.046
+Southern,Hardwood (past),Developed (present),10931599.46
+Southern,Hardwood (past),Exotics (present),1436046.294
+Southern,Hardwood (past),Grassland (present),1116456.204
+Southern,Hardwood (past),Hardwood (present),10426493.96
+Southern,Hardwood (past),Riparian (present),2583968.112
+Southern,Hardwood (past),Shrubland (present),207649.92
+Southern,Hardwood-Conifer (past),Agricultural (present),6086336.46
+Southern,Hardwood-Conifer (past),Conifer (present),13748412.05
+Southern,Hardwood-Conifer (past),Conifer-Hardwood (present),5378808.03
+Southern,Hardwood-Conifer (past),Developed (present),10002542.33
+Southern,Hardwood-Conifer (past),Exotics (present),1044067.332
+Southern,Hardwood-Conifer (past),Grassland (present),1219886.004
+Southern,Hardwood-Conifer (past),Hardwood (present),7171833.654
+Southern,Hardwood-Conifer (past),Riparian (present),577208.436
+Southern,Hardwood-Conifer (past),Shrubland (present),211571.328
+Southern,Riparian (past),Agricultural (present),18133190.44
+Southern,Riparian (past),Conifer (present),16124307.55
+Southern,Riparian (past),Conifer-Hardwood (present),6023785.296
+Southern,Riparian (past),Developed (present),13159835.21
+Southern,Riparian (past),Exotics (present),2480452.398
+Southern,Riparian (past),Grassland (present),1438974.474
+Southern,Riparian (past),Hardwood (present),3954107.934
+Southern,Riparian (past),Riparian (present),38549541.43
+Southern,Riparian (past),Shrubland (present),450085.908
+Southern,Savanna (past),Agricultural (present),51792.6
+Southern,Savanna (past),Conifer (present),116907.198
+Southern,Savanna (past),Conifer-Hardwood (present),8554.77
+Southern,Savanna (past),Developed (present),127830.708
+Southern,Savanna (past),Exotics (present),12672.204
+Southern,Savanna (past),Grassland (present),3988.008
+Southern,Savanna (past),Hardwood (present),21331.98
+Southern,Savanna (past),Riparian (present),141404.01
+Southern,Savanna (past),Shrubland (present),1546.674
+Southern,Shrubland (past),Agricultural (present),727698.906
+Southern,Shrubland (past),Conifer (present),76440.594
+Southern,Shrubland (past),Conifer-Hardwood (present),4830.054
+Southern,Shrubland (past),Developed (present),362450.076
+Southern,Shrubland (past),Exotics (present),334520.256
+Southern,Shrubland (past),Grassland (present),17644.56
+Southern,Shrubland (past),Hardwood (present),124595.28
+Southern,Shrubland (past),Riparian (present),36385.578
+Southern,Shrubland (past),Shrubland (present),56400.21
+Southern Rockies,Conifer (past),Agricultural (present),157983.858
+Southern Rockies,Conifer (past),Conifer (present),13811060.67
+Southern Rockies,Conifer (past),Conifer-Hardwood (present),94213.692
+Southern Rockies,Conifer (past),Developed (present),152552.406
+Southern Rockies,Conifer (past),Exotics (present),158924.25
+Southern Rockies,Conifer (past),Grassland (present),625291.194
+Southern Rockies,Conifer (past),Hardwood (present),456505.26
+Southern Rockies,Conifer (past),Riparian (present),181290.75
+Southern Rockies,Conifer (past),Shrubland (present),2380810.806
+Southern Rockies,Grassland (past),Agricultural (present),415494.312
+Southern Rockies,Grassland (past),Conifer (present),482768.526
+Southern Rockies,Grassland (past),Conifer-Hardwood (present),1283.826
+Southern Rockies,Grassland (past),Developed (present),137098.32
+Southern Rockies,Grassland (past),Exotics (present),275267.79
+Southern Rockies,Grassland (past),Grassland (present),3240034.722
+Southern Rockies,Grassland (past),Hardwood (present),15289.14
+Southern Rockies,Grassland (past),Riparian (present),99351.66
+Southern Rockies,Grassland (past),Shrubland (present),1082719.53
+Southern Rockies,Hardwood (past),Agricultural (present),37998.63
+Southern Rockies,Hardwood (past),Conifer (present),520070.964
+Southern Rockies,Hardwood (past),Conifer-Hardwood (present),52633.536
+Southern Rockies,Hardwood (past),Developed (present),17219.652
+Southern Rockies,Hardwood (past),Exotics (present),37712.028
+Southern Rockies,Hardwood (past),Grassland (present),110674.104
+Southern Rockies,Hardwood (past),Hardwood (present),976883.028
+Southern Rockies,Hardwood (past),Riparian (present),45139.26
+Southern Rockies,Hardwood (past),Shrubland (present),477104.196
+Southern Rockies,Hardwood-Conifer (past),Agricultural (present),7124.424
+Southern Rockies,Hardwood-Conifer (past),Conifer (present),1810562.514
+Southern Rockies,Hardwood-Conifer (past),Conifer-Hardwood (present),164605.452
+Southern Rockies,Hardwood-Conifer (past),Developed (present),16705.944
+Southern Rockies,Hardwood-Conifer (past),Exotics (present),19701.834
+Southern Rockies,Hardwood-Conifer (past),Grassland (present),156981.306
+Southern Rockies,Hardwood-Conifer (past),Hardwood (present),1315118.676
+Southern Rockies,Hardwood-Conifer (past),Riparian (present),25886.088
+Southern Rockies,Hardwood-Conifer (past),Shrubland (present),288583.35
+Southern Rockies,Riparian (past),Agricultural (present),769051.512
+Southern Rockies,Riparian (past),Conifer (present),680436.882
+Southern Rockies,Riparian (past),Conifer-Hardwood (present),15212.994
+Southern Rockies,Riparian (past),Developed (present),127405.356
+Southern Rockies,Riparian (past),Exotics (present),107621.826
+Southern Rockies,Riparian (past),Grassland (present),373144.482
+Southern Rockies,Riparian (past),Hardwood (present),123235.086
+Southern Rockies,Riparian (past),Riparian (present),881819.742
+Southern Rockies,Riparian (past),Shrubland (present),928193.1
+Southern Rockies,Shrubland (past),Agricultural (present),1772186.04
+Southern Rockies,Shrubland (past),Conifer (present),3153579.708
+Southern Rockies,Shrubland (past),Conifer-Hardwood (present),8268.39
+Southern Rockies,Shrubland (past),Developed (present),471560.19
+Southern Rockies,Shrubland (past),Exotics (present),1067599.554
+Southern Rockies,Shrubland (past),Grassland (present),1250798.172
+Southern Rockies,Shrubland (past),Hardwood (present),380253.81
+Southern Rockies,Shrubland (past),Riparian (present),426530.598
+Southern Rockies,Shrubland (past),Shrubland (present),26697102.62
+Southwest,Conifer (past),Agricultural (present),36363.822
+Southwest,Conifer (past),Conifer (present),20267418.07
+Southwest,Conifer (past),Conifer-Hardwood (present),1835057.772
+Southwest,Conifer (past),Developed (present),277315.074
+Southwest,Conifer (past),Exotics (present),255677.622
+Southwest,Conifer (past),Grassland (present),2235864.12
+Southwest,Conifer (past),Hardwood (present),120391.488
+Southwest,Conifer (past),Riparian (present),43766.856
+Southwest,Conifer (past),Shrubland (present),6193753.158
+Southwest,Grassland (past),Agricultural (present),2606208.294
+Southwest,Grassland (past),Conifer (present),1525579.116
+Southwest,Grassland (past),Conifer-Hardwood (present),80650.824
+Southwest,Grassland (past),Developed (present),1026551.532
+Southwest,Grassland (past),Exotics (present),4885960.26
+Southwest,Grassland (past),Grassland (present),17561953.58
+Southwest,Grassland (past),Hardwood (present),5261.4
+Southwest,Grassland (past),Riparian (present),283660.056
+Southwest,Grassland (past),Shrubland (present),26989295.69
+Southwest,Hardwood (past),Agricultural (present),409.812
+Southwest,Hardwood (past),Conifer (present),71310.174
+Southwest,Hardwood (past),Conifer-Hardwood (present),2826.948
+Southwest,Hardwood (past),Developed (present),582.972
+Southwest,Hardwood (past),Exotics (present),1803.084
+Southwest,Hardwood (past),Grassland (present),11082.24
+Southwest,Hardwood (past),Hardwood (present),24329.424
+Southwest,Hardwood (past),Riparian (present),5479.182
+Southwest,Hardwood (past),Shrubland (present),21798.624
+Southwest,Hardwood-Conifer (past),Agricultural (present),436.674
+Southwest,Hardwood-Conifer (past),Conifer (present),638748.834
+Southwest,Hardwood-Conifer (past),Conifer-Hardwood (present),49443.84
+Southwest,Hardwood-Conifer (past),Developed (present),2671.77
+Southwest,Hardwood-Conifer (past),Exotics (present),4993.668
+Southwest,Hardwood-Conifer (past),Grassland (present),58723.662
+Southwest,Hardwood-Conifer (past),Hardwood (present),161171.334
+Southwest,Hardwood-Conifer (past),Riparian (present),5382.168
+Southwest,Hardwood-Conifer (past),Shrubland (present),67214.274
+Southwest,Riparian (past),Agricultural (present),404614.092
+Southwest,Riparian (past),Conifer (present),1618165.548
+Southwest,Riparian (past),Conifer-Hardwood (present),140693.832
+Southwest,Riparian (past),Developed (present),302142.444
+Southwest,Riparian (past),Exotics (present),265065.558
+Southwest,Riparian (past),Grassland (present),376381.464
+Southwest,Riparian (past),Hardwood (present),10322.334
+Southwest,Riparian (past),Riparian (present),761986.14
+Southwest,Riparian (past),Shrubland (present),2205912.324
+Southwest,Shrubland (past),Agricultural (present),1502973.744
+Southwest,Shrubland (past),Conifer (present),8186143.218
+Southwest,Shrubland (past),Conifer-Hardwood (present),315670.458
+Southwest,Shrubland (past),Developed (present),2235220.542
+Southwest,Shrubland (past),Exotics (present),3403349.91
+Southwest,Shrubland (past),Grassland (present),5358997.638
+Southwest,Shrubland (past),Hardwood (present),17345.748
+Southwest,Shrubland (past),Riparian (present),312461.226
+Southwest,Shrubland (past),Shrubland (present),58285357.19
+Tallgrass Prairie,Conifer (past),Agricultural (present),43536.198
+Tallgrass Prairie,Conifer (past),Conifer (present),1469.196
+Tallgrass Prairie,Conifer (past),Conifer-Hardwood (present),2020.2
+Tallgrass Prairie,Conifer (past),Developed (present),8203.788
+Tallgrass Prairie,Conifer (past),Exotics (present),5990.226
+Tallgrass Prairie,Conifer (past),Grassland (present),3783.99
+Tallgrass Prairie,Conifer (past),Hardwood (present),47313.306
+Tallgrass Prairie,Conifer (past),Riparian (present),36955.452
+Tallgrass Prairie,Conifer (past),Shrubland (present),731.046
+Tallgrass Prairie,Grassland (past),Agricultural (present),78771973.18
+Tallgrass Prairie,Grassland (past),Conifer (present),25595.934
+Tallgrass Prairie,Grassland (past),Conifer-Hardwood (present),771829.176
+Tallgrass Prairie,Grassland (past),Developed (present),8356604.586
+Tallgrass Prairie,Grassland (past),Exotics (present),4462810.722
+Tallgrass Prairie,Grassland (past),Grassland (present),2757060.624
+Tallgrass Prairie,Grassland (past),Hardwood (present),3828766.29
+Tallgrass Prairie,Grassland (past),Riparian (present),1723189.308
+Tallgrass Prairie,Grassland (past),Shrubland (present),3986.232
+Tallgrass Prairie,Hardwood (past),Agricultural (present),40053069.5
+Tallgrass Prairie,Hardwood (past),Conifer (present),301163.202
+Tallgrass Prairie,Hardwood (past),Conifer-Hardwood (present),1223766.564
+Tallgrass Prairie,Hardwood (past),Developed (present),11083626.83
+Tallgrass Prairie,Hardwood (past),Exotics (present),2663543.568
+Tallgrass Prairie,Hardwood (past),Grassland (present),301751.058
+Tallgrass Prairie,Hardwood (past),Hardwood (present),9893631.132
+Tallgrass Prairie,Hardwood (past),Riparian (present),1180057.65
+Tallgrass Prairie,Hardwood (past),Shrubland (present),4638.246
+Tallgrass Prairie,Hardwood-Conifer (past),Agricultural (present),909168.366
+Tallgrass Prairie,Hardwood-Conifer (past),Conifer (present),186442.482
+Tallgrass Prairie,Hardwood-Conifer (past),Conifer-Hardwood (present),203120.898
+Tallgrass Prairie,Hardwood-Conifer (past),Developed (present),312320.034
+Tallgrass Prairie,Hardwood-Conifer (past),Exotics (present),145758.984
+Tallgrass Prairie,Hardwood-Conifer (past),Grassland (present),18469.29
+Tallgrass Prairie,Hardwood-Conifer (past),Hardwood (present),1130724.366
+Tallgrass Prairie,Hardwood-Conifer (past),Riparian (present),179355.576
+Tallgrass Prairie,Hardwood-Conifer (past),Shrubland (present),1331.556
+Tallgrass Prairie,Riparian (past),Agricultural (present),7112533.902
+Tallgrass Prairie,Riparian (past),Conifer (present),58852.2
+Tallgrass Prairie,Riparian (past),Conifer-Hardwood (present),161188.65
+Tallgrass Prairie,Riparian (past),Developed (present),1288268.442
+Tallgrass Prairie,Riparian (past),Exotics (present),752325.81
+Tallgrass Prairie,Riparian (past),Grassland (present),229191.468
+Tallgrass Prairie,Riparian (past),Hardwood (present),1322726.616
+Tallgrass Prairie,Riparian (past),Riparian (present),4379042.796
+Tallgrass Prairie,Riparian (past),Shrubland (present),3466.752
+Tallgrass Prairie,Shrubland (past),Agricultural (present),277554.612
+Tallgrass Prairie,Shrubland (past),Conifer (present),23.088
+Tallgrass Prairie,Shrubland (past),Conifer-Hardwood (present),2209.566
+Tallgrass Prairie,Shrubland (past),Developed (present),40222.182
+Tallgrass Prairie,Shrubland (past),Exotics (present),25769.76
+Tallgrass Prairie,Shrubland (past),Grassland (present),13618.812
+Tallgrass Prairie,Shrubland (past),Hardwood (present),39677.838
+Tallgrass Prairie,Shrubland (past),Riparian (present),22408.014
+Tallgrass Prairie,Shrubland (past),Shrubland (present),64.158
+Great Basin,Conifer (past),Agricultural (present),51411.426
+Great Basin,Conifer (past),Conifer (present),8420269.524
+Great Basin,Conifer (past),Conifer-Hardwood (present),122941.158
+Great Basin,Conifer (past),Developed (present),120378.612
+Great Basin,Conifer (past),Exotics (present),283052.22
+Great Basin,Conifer (past),Grassland (present),267223.62
+Great Basin,Conifer (past),Hardwood (present),148510.23
+Great Basin,Conifer (past),Riparian (present),130057.812
+Great Basin,Conifer (past),Shrubland (present),2757922.65
+Great Basin,Grassland (past),Agricultural (present),53062.662
+Great Basin,Grassland (past),Conifer (present),39368.814
+Great Basin,Grassland (past),Conifer-Hardwood (present),861.138
+Great Basin,Grassland (past),Developed (present),28273.476
+Great Basin,Grassland (past),Exotics (present),61755.516
+Great Basin,Grassland (past),Grassland (present),49266.906
+Great Basin,Grassland (past),Hardwood (present),11252.736
+Great Basin,Grassland (past),Riparian (present),11127.972
+Great Basin,Grassland (past),Shrubland (present),811810.266
+Great Basin,Hardwood (past),Agricultural (present),27565.74
+Great Basin,Hardwood (past),Conifer (present),570757.782
+Great Basin,Hardwood (past),Conifer-Hardwood (present),181796.244
+Great Basin,Hardwood (past),Developed (present),27676.962
+Great Basin,Hardwood (past),Exotics (present),56709.234
+Great Basin,Hardwood (past),Grassland (present),157742.1
+Great Basin,Hardwood (past),Hardwood (present),834631.2
+Great Basin,Hardwood (past),Riparian (present),16032.618
+Great Basin,Hardwood (past),Shrubland (present),916276.14
+Great Basin,Hardwood-Conifer (past),Agricultural (present),344.544
+Great Basin,Hardwood-Conifer (past),Conifer (present),550462.32
+Great Basin,Hardwood-Conifer (past),Conifer-Hardwood (present),259169.016
+Great Basin,Hardwood-Conifer (past),Developed (present),8843.592
+Great Basin,Hardwood-Conifer (past),Exotics (present),9143.958
+Great Basin,Hardwood-Conifer (past),Grassland (present),70600.218
+Great Basin,Hardwood-Conifer (past),Hardwood (present),415360.002
+Great Basin,Hardwood-Conifer (past),Riparian (present),5672.322
+Great Basin,Hardwood-Conifer (past),Shrubland (present),176554.158
+Great Basin,Riparian (past),Agricultural (present),1644367.542
+Great Basin,Riparian (past),Conifer (present),595553.406
+Great Basin,Riparian (past),Conifer-Hardwood (present),22349.406
+Great Basin,Riparian (past),Developed (present),326021.652
+Great Basin,Riparian (past),Exotics (present),431674.56
+Great Basin,Riparian (past),Grassland (present),92633.94
+Great Basin,Riparian (past),Hardwood (present),68860.626
+Great Basin,Riparian (past),Riparian (present),846525.516
+Great Basin,Riparian (past),Shrubland (present),837836.658
+Great Basin,Shrubland (past),Agricultural (present),4837271.442
+Great Basin,Shrubland (past),Conifer (present),8703792.384
+Great Basin,Shrubland (past),Conifer-Hardwood (present),55313.076
+Great Basin,Shrubland (past),Developed (present),1656778.896
+Great Basin,Shrubland (past),Exotics (present),13281979.61
+Great Basin,Shrubland (past),Grassland (present),2953830.546
+Great Basin,Shrubland (past),Hardwood (present),244033.944
+Great Basin,Shrubland (past),Riparian (present),1322973.702
+Great Basin,Shrubland (past),Shrubland (present),69914929.31

@@ -1,0 +1,61 @@
+source,target,value
+Conifer (past),Agricultural (present),29725.578
+Conifer (past),Conifer (present),365499.468
+Conifer (past),Conifer-Hardwood (present),133958.352
+Conifer (past),Developed (present),134030.502
+Conifer (past),Exotic Herbaceous (present),19619.916
+Conifer (past),Exotic Tree-Shrub (present),1384.614
+Conifer (past),Grassland (present),12401.364
+Conifer (past),Hardwood (present),1146710.142
+Conifer (past),Riparian (present),3214.116
+Conifer (past),Shrubland (present),6561.876
+Grassland (past),Agricultural (present),69156.33
+Grassland (past),Conifer (present),2057.496
+Grassland (past),Conifer-Hardwood (present),4535.238
+Grassland (past),Developed (present),20524.122
+Grassland (past),Exotic Herbaceous (present),4822.728
+Grassland (past),Exotic Tree-Shrub (present),197.358
+Grassland (past),Grassland (present),284.382
+Grassland (past),Hardwood (present),53694.918
+Grassland (past),Riparian (present),468.42
+Grassland (past),Shrubland (present),60.384
+Hardwood (past),Agricultural (present),10659145.96
+Hardwood (past),Conifer (present),3077406.402
+Hardwood (past),Conifer-Hardwood (present),5057071.866
+Hardwood (past),Developed (present),10333441.99
+Hardwood (past),Exotic Herbaceous (present),1518179.634
+Hardwood (past),Exotic Tree-Shrub (present),106601.958
+Hardwood (past),Grassland (present),310557.132
+Hardwood (past),Hardwood (present),40393593.75
+Hardwood (past),Riparian (present),290120.922
+Hardwood (past),Shrubland (present),83968.836
+Hardwood-Conifer (past),Agricultural (present),614819.454
+Hardwood-Conifer (past),Conifer (present),371075.664
+Hardwood-Conifer (past),Conifer-Hardwood (present),655162.626
+Hardwood-Conifer (past),Developed (present),927503.124
+Hardwood-Conifer (past),Exotic Herbaceous (present),50939.454
+Hardwood-Conifer (past),Exotic Tree-Shrub (present),3093.57
+Hardwood-Conifer (past),Grassland (present),32651.094
+Hardwood-Conifer (past),Hardwood (present),2747015.568
+Hardwood-Conifer (past),Riparian (present),15335.76
+Hardwood-Conifer (past),Shrubland (present),6623.37
+Riparian (past),Agricultural (present),1871688.438
+Riparian (past),Conifer (present),411177.522
+Riparian (past),Conifer-Hardwood (present),680693.736
+Riparian (past),Developed (present),2108690.976
+Riparian (past),Exotic Herbaceous (present),186114.366
+Riparian (past),Exotic Tree-Shrub (present),15421.674
+Riparian (past),Grassland (present),15438.99
+Riparian (past),Hardwood (present),3435660.9
+Riparian (past),Riparian (present),959494.878
+Riparian (past),Shrubland (present),4629.81
+Savanna (past),Agricultural (present),29129.73
+Savanna (past),Conifer (present),5497.608
+Savanna (past),Conifer-Hardwood (present),11590.62
+Savanna (past),Developed (present),11907.636
+Savanna (past),Exotic Herbaceous (present),2372.292
+Savanna (past),Exotic Tree-Shrub (present),93.462
+Savanna (past),Grassland (present),156.51
+Savanna (past),Hardwood (present),43071.552
+Savanna (past),Riparian (present),392.496
+Savanna (past),Shrubland (present),45.51
